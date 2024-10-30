@@ -61,14 +61,65 @@
       "group": "API Documentation",
       "pages": ["api-reference/introduction"]
     },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
-      ]
-    }
+    
+  {
+    "group": "Auth",
+    "pages": [
+      "auth/iniciar-sesion",
+      "auth/cierra-sesion",
+      "auth/cambia-la-contraseña-del-usuario-logueado",
+      "auth/obtiene-los-datos-de-la-sesion"
+    ]
+  },
+  {
+    "group": "Bancos",
+    "pages": [
+      "bancos/obtiene-la-lista-de-bancos"
+    ]
+  },
+  {
+    "group": "Facturas",
+    "pages": [
+      "facturas/lista-todas-las-facturas-en-funcion-del-rol-del-usuario-solo-mostrara-las-facturas-que-tiene-permitido-ver"
+    ]
+  },
+  {
+    "group": "Marcas",
+    "pages": [
+      "marcas/obtiene-la-lista-con-todas-las-marcas",
+      "marcas/modifica-una-marca-existente",
+      "marcas/crea-una-nueva-marca",
+      "marcas/elimina-una-marca"
+    ]
+  },
+  {
+    "group": "Empleados",
+    "pages": [
+      "empleados/obtiene-la-lista-de-empleados-de-la-empresa-a-la-que-pertenece-el-usuario-logueado"
+    ]
+  },
+  {
+    "group": "NCF",
+    "pages": [
+      "ncf/listar-tipos-de-comprobantes-fiscales",
+      "ncf/listar-disponibilidad-de-comprobantes-fiscales",
+      "ncf/modifica-la-disponibilidad-de-comprobantes-fiscales",
+      "ncf/obtiene-el-proximo-numero-de-comprobante-fiscal"
+    ]
+  },
+  {
+    "group": "Mesas",
+    "pages": [
+      "mesas/lista-todas-las-mesas-de-un-establecimiento"
+    ]
+  },
+  {
+    "group": "Usuarios",
+    "pages": [
+      "usuarios/obtiene-la-lista-con-todos-los-usuarios",
+      "usuarios/crea-un-nuevo-usuario"
+    ]
+  }
   ],
   "footerSocials": {
     "twitter": "https://twitter.com/mintlify",
