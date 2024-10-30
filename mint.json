@@ -64,7 +64,7 @@
     {
       "group": "Auth",
       "pages": [
-        "api-reference/auth/iniciar-sesion",
+        "api-reference/auth/login",
         "api-reference/auth/cierra-sesion",
         "api-reference/auth/cambia-la-contraseña-del-usuario-logueado",
         "api-reference/auth/obtiene-los-datos-de-la-sesion"
