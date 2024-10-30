@@ -61,65 +61,64 @@
       "group": "API Documentation",
       "pages": ["api-reference/introduction"]
     },
-    
-  {
-    "group": "Auth",
-    "pages": [
-      "auth/iniciar-sesion",
-      "auth/cierra-sesion",
-      "auth/cambia-la-contraseña-del-usuario-logueado",
-      "auth/obtiene-los-datos-de-la-sesion"
-    ]
-  },
-  {
-    "group": "Bancos",
-    "pages": [
-      "bancos/obtiene-la-lista-de-bancos"
-    ]
-  },
-  {
-    "group": "Facturas",
-    "pages": [
-      "facturas/lista-todas-las-facturas-en-funcion-del-rol-del-usuario-solo-mostrara-las-facturas-que-tiene-permitido-ver"
-    ]
-  },
-  {
-    "group": "Marcas",
-    "pages": [
-      "marcas/obtiene-la-lista-con-todas-las-marcas",
-      "marcas/modifica-una-marca-existente",
-      "marcas/crea-una-nueva-marca",
-      "marcas/elimina-una-marca"
-    ]
-  },
-  {
-    "group": "Empleados",
-    "pages": [
-      "empleados/obtiene-la-lista-de-empleados-de-la-empresa-a-la-que-pertenece-el-usuario-logueado"
-    ]
-  },
-  {
-    "group": "NCF",
-    "pages": [
-      "ncf/listar-tipos-de-comprobantes-fiscales",
-      "ncf/listar-disponibilidad-de-comprobantes-fiscales",
-      "ncf/modifica-la-disponibilidad-de-comprobantes-fiscales",
-      "ncf/obtiene-el-proximo-numero-de-comprobante-fiscal"
-    ]
-  },
-  {
-    "group": "Mesas",
-    "pages": [
-      "mesas/lista-todas-las-mesas-de-un-establecimiento"
-    ]
-  },
-  {
-    "group": "Usuarios",
-    "pages": [
-      "usuarios/obtiene-la-lista-con-todos-los-usuarios",
-      "usuarios/crea-un-nuevo-usuario"
-    ]
-  }
+    {
+      "group": "Auth",
+      "pages": [
+        "api-reference/auth/iniciar-sesion",
+        "api-reference/auth/cierra-sesion",
+        "api-reference/auth/cambia-la-contraseña-del-usuario-logueado",
+        "api-reference/auth/obtiene-los-datos-de-la-sesion"
+      ]
+    },
+    {
+      "group": "Bancos",
+      "pages": [
+        "api-reference/bancos/obtiene-la-lista-de-bancos"
+      ]
+    },
+    {
+      "group": "Facturas",
+      "pages": [
+        "api-reference/facturas/lista-todas-las-facturas-en-funcion-del-rol-del-usuario-solo-mostrara-las-facturas-que-tiene-permitido-ver"
+      ]
+    },
+    {
+      "group": "Marcas",
+      "pages": [
+        "api-reference/marcas/obtiene-la-lista-con-todas-las-marcas",
+        "api-reference/marcas/modifica-una-marca-existente",
+        "api-reference/marcas/crea-una-nueva-marca",
+        "api-reference/marcas/elimina-una-marca"
+      ]
+    },
+    {
+      "group": "Empleados",
+      "pages": [
+        "api-reference/empleados/obtiene-la-lista-de-empleados-de-la-empresa-a-la-que-pertenece-el-usuario-logueado"
+      ]
+    },
+    {
+      "group": "NCF",
+      "pages": [
+        "api-reference/ncf/listar-tipos-de-comprobantes-fiscales",
+        "api-reference/ncf/listar-disponibilidad-de-comprobantes-fiscales",
+        "api-reference/ncf/modifica-la-disponibilidad-de-comprobantes-fiscales",
+        "api-reference/ncf/obtiene-el-proximo-numero-de-comprobante-fiscal"
+      ]
+    },
+    {
+      "group": "Mesas",
+      "pages": [
+        "api-reference/mesas/lista-todas-las-mesas-de-un-establecimiento"
+      ]
+    },
+    {
+      "group": "Usuarios",
+      "pages": [
+        "api-reference/usuarios/obtiene-la-lista-con-todos-los-usuarios",
+        "api-reference/usuarios/crea-un-nuevo-usuario"
+      ]
+    }
   ],
   "footerSocials": {
     "twitter": "https://twitter.com/mintlify",
