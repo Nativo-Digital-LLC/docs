@@ -24,13 +24,13 @@
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://admin.betapos.com.do"
+    "url": "https://admin.nexo.com.do"
   },
   "tabs": [
     {
       "name": "API Reference",
       "url": "api-reference",
-      "openapi": "https://api.betapos.com.do/v2/docs"
+      "openapi": "https://api.nexo.com.do/v2/docs"
     }
   ],
   "navigation": [
