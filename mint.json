@@ -30,7 +30,7 @@
     {
       "name": "API Reference",
       "url": "api-reference",
-      "openapi": "https://api.betapos.com.do/v2/docs-json"
+      "openapi": "https://api.betapos.com.do/v2/docs"
     }
   ],
   "navigation": [
